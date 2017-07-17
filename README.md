@@ -9,7 +9,7 @@ An automatic paging custom view for android，Android上自定义一个自动分
 
 ### 使用方法
 
-1. 布局文件进入PageFlowView，注意：
+1. 布局文件引入PageFlowView，注意：
 - 指定初始宽度、高度，添加子View时候会动态计算高度，当超出初始高度时自动分页；
 ```
 <com.goven.pageflow.PageFlowView
