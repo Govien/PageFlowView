@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageFlowView">
+        <attr name="indicatorMargin" format="dimension"/>
+        <attr name="maxRows" format="integer"/>
+        <attr name="maxPages" format="integer"/>
+    </declare-styleable>
+</resources>
